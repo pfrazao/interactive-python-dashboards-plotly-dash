@@ -1,1 +1,1 @@
-# interactive-python-dashboards-plotly-dash
+# Interactive Python Dashboards with Plotly and Dash
